@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="Helvetica,Arial,sans-serif">
+<rect width="900" height="380" fill="#fff"/>
+<text x="60" y="22" font-size="14" font-weight="700">State AI exposure, standardised (2019 industry mix x AIIE)</text>
+<line x1="60" y1="203.4" x2="710" y2="203.4" stroke="#999"/>
+<rect x="69.8" y="36.0" width="45.5" height="167.4" fill="#1F4E79"/>
+<text x="92.5" y="334" font-size="8" fill="#555" text-anchor="middle">DC</text>
+<rect x="134.8" y="107.2" width="45.5" height="96.2" fill="#1F4E79"/>
+<text x="157.5" y="334" font-size="8" fill="#555" text-anchor="middle">NY</text>
+<rect x="199.8" y="107.8" width="45.5" height="95.7" fill="#1F4E79"/>
+<text x="222.5" y="334" font-size="8" fill="#555" text-anchor="middle">MA</text>
+<rect x="264.8" y="129.1" width="45.5" height="74.3" fill="#1F4E79"/>
+<text x="287.5" y="334" font-size="8" fill="#555" text-anchor="middle">DE</text>
+<rect x="329.8" y="135.3" width="45.5" height="68.1" fill="#1F4E79"/>
+<text x="352.5" y="334" font-size="8" fill="#555" text-anchor="middle">CT</text>
+<rect x="394.8" y="203.4" width="45.5" height="52.7" fill="#1F4E79"/>
+<text x="417.5" y="334" font-size="8" fill="#555" text-anchor="middle">ID</text>
+<rect x="459.8" y="203.4" width="45.5" height="54.7" fill="#1F4E79"/>
+<text x="482.5" y="334" font-size="8" fill="#555" text-anchor="middle">IN</text>
+<rect x="524.8" y="203.4" width="45.5" height="74.5" fill="#1F4E79"/>
+<text x="547.5" y="334" font-size="8" fill="#555" text-anchor="middle">MS</text>
+<rect x="589.8" y="203.4" width="45.5" height="86.6" fill="#1F4E79"/>
+<text x="612.5" y="334" font-size="8" fill="#555" text-anchor="middle">NV</text>
+<rect x="654.8" y="203.4" width="45.5" height="116.6" fill="#1F4E79"/>
+<text x="677.5" y="334" font-size="8" fill="#555" text-anchor="middle">WY</text>
+<text x="60" y="372" font-size="9" fill="#666">Z-score. Top five and bottom five states.</text>
+</svg>

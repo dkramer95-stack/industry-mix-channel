@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Helvetica,Arial,sans-serif">
+<rect width="900" height="340" fill="#fff"/>
+<text x="60" y="22" font-size="14" font-weight="700">Permutation distribution of the exposure coefficient</text>
+<rect x="60.0" y="290.5" width="23.4" height="9.5" fill="#9DB4CC"/>
+<rect x="86.0" y="287.3" width="23.4" height="12.7" fill="#9DB4CC"/>
+<rect x="112.0" y="252.3" width="23.4" height="47.7" fill="#9DB4CC"/>
+<rect x="138.0" y="223.7" width="23.4" height="76.3" fill="#9DB4CC"/>
+<rect x="164.0" y="214.1" width="23.4" height="85.9" fill="#9DB4CC"/>
+<rect x="190.0" y="163.2" width="23.4" height="136.8" fill="#9DB4CC"/>
+<rect x="216.0" y="137.8" width="23.4" height="162.2" fill="#9DB4CC"/>
+<rect x="242.0" y="144.1" width="23.4" height="155.9" fill="#9DB4CC"/>
+<rect x="268.0" y="77.3" width="23.4" height="222.7" fill="#9DB4CC"/>
+<rect x="294.0" y="55.1" width="23.4" height="244.9" fill="#9DB4CC"/>
+<rect x="320.0" y="61.4" width="23.4" height="238.6" fill="#9DB4CC"/>
+<rect x="346.0" y="77.3" width="23.4" height="222.7" fill="#9DB4CC"/>
+<rect x="372.0" y="36.0" width="23.4" height="264.0" fill="#9DB4CC"/>
+<rect x="398.0" y="96.4" width="23.4" height="203.6" fill="#9DB4CC"/>
+<rect x="424.0" y="61.4" width="23.4" height="238.6" fill="#9DB4CC"/>
+<rect x="450.0" y="86.9" width="23.4" height="213.1" fill="#9DB4CC"/>
+<rect x="476.0" y="106.0" width="23.4" height="194.0" fill="#9DB4CC"/>
+<rect x="502.0" y="144.1" width="23.4" height="155.9" fill="#9DB4CC"/>
+<rect x="528.0" y="210.9" width="23.4" height="89.1" fill="#9DB4CC"/>
+<rect x="554.0" y="201.4" width="23.4" height="98.6" fill="#9DB4CC"/>
+<rect x="580.0" y="258.7" width="23.4" height="41.3" fill="#9DB4CC"/>
+<rect x="606.0" y="265.0" width="23.4" height="35.0" fill="#9DB4CC"/>
+<rect x="632.0" y="284.1" width="23.4" height="15.9" fill="#9DB4CC"/>
+<rect x="658.0" y="293.6" width="23.4" height="6.4" fill="#9DB4CC"/>
+<rect x="684.0" y="290.5" width="23.4" height="9.5" fill="#9DB4CC"/>
+<line x1="233.1" y1="36" x2="233.1" y2="300" stroke="#C00000" stroke-width="2"/>
+<text x="237.1" y="48" font-size="9" fill="#C00000">actual</text>
+<text x="60" y="334" font-size="9" fill="#666">1,000 shuffles of sector exposure. Actual coefficient in red.</text>
+</svg>
